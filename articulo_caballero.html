@@ -37,7 +37,7 @@
 </head>
 <body>
 	<div class="articulo">
-		<img src="img/navidad.jpg" alt="navidad">
+		<img src="navidad.jpg" alt="navidad">
 		<div class="contenido">
 			<h2>Navidad</h2>
 			<p>Esta solemnidad, que conmemora el nacimiento de Jesucristo en Belén, se celebra el 25 de diciembre en la Iglesia católica, en la Iglesia anglicana, en algunas comunidades protestantes y en la mayoría de las Iglesias ortodoxas.</p>
